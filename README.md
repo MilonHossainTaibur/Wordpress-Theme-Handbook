@@ -1,1 +1,1 @@
-# Wordpress-Theme-Handbook
+# Wordpress-Theme-Handbook-Encoderbase Theme
